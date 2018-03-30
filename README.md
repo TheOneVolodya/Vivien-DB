@@ -1,2 +1,2 @@
 # Vivien-DB
-Embedded document-relational-oriented database based on JSON
+Embedded dynamic document-relational database based on JSON
